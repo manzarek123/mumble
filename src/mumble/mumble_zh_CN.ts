@@ -4073,7 +4073,7 @@ The setting only applies for new messages, the already shown ones will retain th
     </message>
     <message>
         <source>User limit for message limiting</source>
-        <translation type="unfinished"></translation>
+        <translation>消息限制用户数</translation>
     </message>
     <message>
         <source>Click here to toggle message limiting for all events - If using this option be sure to change the user limit below.</source>
@@ -7421,19 +7421,19 @@ To upgrade these files to their latest versions, click the button below.</source
     </message>
     <message>
         <source>Unable to locate the plugin manifest (manifest.xml)</source>
-        <translation type="unfinished"></translation>
+        <translation>无法定位插件清单文件（manifest.xml）</translation>
     </message>
     <message>
         <source>Error while processing manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>处理清单文件错误：%1</translation>
     </message>
     <message>
         <source>Unable to find plugin for the current OS (&quot;%1&quot;) and architecture (&quot;%2&quot;)</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到匹配当前操作系统（“%1”）和架构（“%2”）的插件</translation>
     </message>
     <message>
         <source>Unable to locate plugin library specified in manifest (&quot;%1&quot;) in the bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>无法在插件包中定位到清单文件所指定的插件库（“%1”）</translation>
     </message>
 </context>
 <context>
