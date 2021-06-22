@@ -7349,19 +7349,19 @@ Um diese Dateien zu aktualisieren, klicken Sie unten den Button.</translation>
     </message>
     <message>
         <source>Unable to locate the plugin manifest (manifest.xml)</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Plugin-Manifest (manifest.xml) konnte nicht gefunden werden</translation>
     </message>
     <message>
         <source>Error while processing manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Verarbeiten des Manifests: %1</translation>
     </message>
     <message>
         <source>Unable to find plugin for the current OS (&quot;%1&quot;) and architecture (&quot;%2&quot;)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Plugin für das aktuelle Betriebssystem (&quot;%1&quot;) und Prozessor-Architektur (&quot;%2&quot;) konnte nicht gefunden werden</translation>
     </message>
     <message>
         <source>Unable to locate plugin library specified in manifest (&quot;%1&quot;) in the bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Plugin, welches im Manifest des Bundles referenziert wurde (&quot;%1&quot;), konnte nicht gefunden werden</translation>
     </message>
 </context>
 <context>
