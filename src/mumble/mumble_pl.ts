@@ -6447,11 +6447,11 @@ Prawidłowe opcje to:
     </message>
     <message>
         <source>Unmute yourself</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz wyciszenie siebie</translation>
     </message>
     <message>
         <source>Undeafen yourself</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz ogłuszenie siebie</translation>
     </message>
     <message>
         <source>Positional &amp;Audio Viewer...</source>
@@ -7432,19 +7432,19 @@ Aby uaktualnić pliki do najnowszych wersji, kliknij przycisk poniżej.</transla
     </message>
     <message>
         <source>Unable to locate the plugin manifest (manifest.xml)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć manifestu wtyczki (manifest.xml)</translation>
     </message>
     <message>
         <source>Error while processing manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas przetwarzania manifestu: %1</translation>
     </message>
     <message>
         <source>Unable to find plugin for the current OS (&quot;%1&quot;) and architecture (&quot;%2&quot;)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć wtyczki dla bieżącego systemu operacyjnego (&quot;%1&quot;) i architektury (&quot;%2&quot;)</translation>
     </message>
     <message>
         <source>Unable to locate plugin library specified in manifest (&quot;%1&quot;) in the bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć w pakiecie biblioteki wtyczek określonej w manifeście (&quot;%1&quot;)</translation>
     </message>
 </context>
 <context>
