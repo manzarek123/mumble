@@ -134,6 +134,11 @@ void Connection::socketRead() {
 		QByteArray qbaBuffer = qtsSocket->read(iPacketLength);
 		iPacketLength = -1;
 		iAvailable -= iPacketLength;
+        
+        if (qtsSocket->state() == QAbstractSocket::ClosingState) {
+            qWarning() << "Bite couille";
+            disconnectSocket(true);
+        }
 
 		emit message(uiType, qbaBuffer);
 	}
